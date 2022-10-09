@@ -13,4 +13,4 @@ The model is based on supervised learning, and a regression task.
 Following DataSet has been used : https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
 ## References
-Harish Khane. [CodeWithHarry]. (2019, August 13). Project 1: End To End Python ML Project (Complete) [Video]. YouTube. https://www.youtube.com/watch?v=iIkJrwVUl1c&t=861s
+Harish Khan. [CodeWithHarry]. (2019, August 13). Project 1: End To End Python ML Project (Complete) [Video]. YouTube. https://www.youtube.com/watch?v=iIkJrwVUl1c&t=861s
