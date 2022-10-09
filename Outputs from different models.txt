@@ -1,0 +1,13 @@
+1. Decision Tree:
+    Mean of Scores:  4.376128252062884
+    Standard Deviation of Scores:  0.8063155797700934
+
+----------------
+
+2. Linear Regression:
+    Mean of Scores:  5.030437102767305
+    Standard Deviation of Scores:  1.0607661158294828
+    
+3. Random Forest Regression:
+    Mean of Scores:  3.3649813657605847
+    Standard Deviation of Scores:  0.6862974488273723
